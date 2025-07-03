@@ -3,7 +3,7 @@
 | XPU  | Manu   | Arch   | FP32 (TF) | FP16 (TF)    | FP8(TF) | Memory(GB) | Memroy BW(TB/s) | Inter-Card BW(GB/s)                | PCIe |
 | ---- | ------ | ------ | --------- | ------------ | ------- | ---------- | --------------- | ---------------------------------- | ---- |
 | H200 | Nvidia | Hopper | 989       | 1979         | 3958    | 141        | 4.8             | 64(PCIe)/400Gb(ib-cx7)/900(NVLink) | Gen5 |
-| A800 | A800   | Ampere | 312       | 624          |         | 40/80      | 1.88            | 64(PCIe)/400Gb(ib-cx7)/400(NVLink) | Gen4 |
+| A800 | Nvidia | Ampere | 312       | 624          |         | 40/80      | 1.88            | 64(PCIe)/400Gb(ib-cx7)/400(NVLink) | Gen4 |
 | H20  | Nvidia | Hopper | 74        | 148          | 296     | 96         | 4.0             | 64(PCIe)/400Gb(ib-cx7)/900(NVLink) | Gen5 |
 | 4090 | Nvidia | Ada    | 83        | 330          | 660     | 24         | 1 (DDR6)        | 32(PCIe)/400Gb(ib-cx7)/            | Gen4 |
 | 3090 | Nvidia | Ampere | 35        | 142          | /       | 24         | 0.87(900GB)     | 32(PCIe)/400Gb(ib-cx7)/            | Gen4 |
